@@ -1,6 +1,6 @@
 
 function celToFahre(x){
-    // calculate fahrenheit
+    // calculate fahrenheit //
     return x * 9/5 + 32;
 }
 // display the result //
